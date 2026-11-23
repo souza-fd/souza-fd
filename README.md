@@ -1,149 +1,144 @@
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 FERNANDO DIAS DE SOUZA                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ====================================================== -->
+<!-- FERNANDO DIAS DE SOUZA | GITHUB PROFILE                -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A43,100:0D1117&height=145&section=header&text=Fernando%20Dias%20de%20Souza&fontSize=34&fontColor=E6EDF3&fontAlignY=48&desc=Electronics%20%7C%20Systems%20Development%20%7C%20Scientific%20Research&descSize=12&descAlignY=72&descColor=58A6FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0B1220&text=FERNANDO%20DIAS%20DE%20SOUZA&fontColor=E6EDF3&fontSize=34&fontAlignY=42&desc=ELECTRONICS%20%7C%20SYSTEMS%20%7C%20ROBOTICS%20%7C%20RESEARCH&descAlignY=65&descSize=12&descColor=58A6FF"/>
 
-  <br/>
+<br/>
 
-  **`Desenvolvimento de Sistemas`** · **`Eletrônica`** · **`Robótica`** · **`Pesquisa Científica`**
+<a href="https://www.linkedin.com/in/souza-f-d/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+<a href="https://www.instagram.com/souza.f.d/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
+</a>
+<a href="https://lattes.cnpq.br/">
+<img src="https://img.shields.io/badge/CURRÍCULO_LATTES-0B1220?style=for-the-badge&logo=googlescholar&logoColor=58A6FF"/>
+</a>
 
-  <br/>
+<br/><br/>
 
-  <a href="https://www.linkedin.com/in/souza-f-d/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-  </a>
-  <a href="https://www.instagram.com/souza.f.d/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3"/>
-  </a>
+<sub>BELO HORIZONTE · MINAS GERAIS · BRASIL</sub>
 
 </div>
 
 ---
 
-## `01` — Sobre mim
+## 01. Perfil
 
-Sou técnico em Eletrônica pelo **Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG)** e estudante de Desenvolvimento de Sistemas pelo **Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)**.
+Técnico em Eletrônica pelo **Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG)** e estudante de Desenvolvimento de Sistemas pelo **Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)**.
 
-Minha trajetória acadêmica reúne experiências em pesquisa científica, desenvolvimento tecnológico, automação e robótica. Participei de projetos de iniciação científica, atividades acadêmicas e competições científicas, com destaque para a conquista do **1º lugar nas categorias Geral e Arrancada da Competição de Robôs Autônomos (CoRA/UFMG)**.
+Minha trajetória acadêmica integra experiências em pesquisa científica, desenvolvimento tecnológico, eletrônica, automação e robótica. Tenho interesse especial na aplicação de conhecimentos multidisciplinares à construção de sistemas e soluções tecnológicas.
 
-Atuei como bolsista do **Programa de Iniciação Científica Júnior (PIC Jr)**, vinculado à OBMEP e promovido pelo IMPA, e como voluntário no projeto **LEX-Lux-Br**, da Faculdade de Letras da UFMG. Também fui selecionado para o 8º e o 13º Encontro de Seleção de Talentos da FGV CDMC.
+Entre minhas experiências e realizações, destaco:
 
-Tenho interesse na integração entre diferentes áreas do conhecimento, especialmente no desenvolvimento de sistemas, eletrônica, robótica e investigação científica.
+- **CoRA/UFMG:** 1º lugar nas categorias Geral e Arrancada da Competição de Robôs Autônomos.
+- **PIC Jr/OBMEP:** participação como bolsista do Programa de Iniciação Científica Júnior, promovido pelo IMPA.
+- **LEX-Lux-Br/UFMG:** atuação voluntária em projeto da Faculdade de Letras.
+- **FGV CDMC:** seleção para o 8º e o 13º Encontro de Seleção de Talentos.
 
 ---
 
-## `02` — Áreas de interesse
+## 02. Áreas de interesse
 
 <div align="center">
 
-| Área | Interesse |
-|:---:|:---|
-| **Eletrônica** | Sistemas embarcados e instrumentação |
-| **Computação** | Desenvolvimento de sistemas e algoritmos |
-| **Robótica** | Automação e controle de sistemas autônomos |
-| **IoT** | Comunicação entre dispositivos e telemetria |
-| **Pesquisa** | Investigação científica e desenvolvimento tecnológico |
+<img src="https://img.shields.io/badge/ELETRÔNICA-0B1220?style=for-the-badge&logo=arduino&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/COMPUTAÇÃO-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/ROBÓTICA-0B1220?style=for-the-badge&logo=robotframework&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-0B1220?style=for-the-badge&logo=probot&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/PESQUISA-0B1220?style=for-the-badge&logo=googlescholar&logoColor=58A6FF"/>
 
 </div>
 
+- Sistemas embarcados e instrumentação;
+- Desenvolvimento de sistemas e algoritmos;
+- Robótica móvel e sistemas autônomos;
+- Sistemas de controle e máquinas de estados;
+- Internet das Coisas e comunicação entre dispositivos;
+- Pesquisa científica e desenvolvimento tecnológico.
+
 ---
 
-## `03` — Tecnologias e ferramentas
+## 03. Tecnologias e ferramentas
 
-**Linguagens de programação**
+**Linguagens**
 
 <div align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"/>
+<img height="42" src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"/>
 </div>
 
-**Sistemas embarcados e desenvolvimento**
+**Desenvolvimento e sistemas embarcados**
 
 <div align="left">
-  <img height="38" src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,git,github&theme=dark"/>
+<img height="42" src="https://skillicons.dev/icons?i=arduino,vscode,git,github&theme=dark"/>
 </div>
 
-**Comunicação e integração**
+**Protocolos e integração**
 
 <div align="left">
 
-  ![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logo=eclipse-mosquitto&logoColor=58A6FF)
-  ![JSON](https://img.shields.io/badge/JSON-0D1117?style=flat-square&logo=json&logoColor=58A6FF)
-  ![Node--RED](https://img.shields.io/badge/Node--RED-0D1117?style=flat-square&logo=nodered&logoColor=FF5555)
+<img src="https://img.shields.io/badge/MQTT-0B1220?style=flat-square&logo=eclipse-mosquitto&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/JSON-0B1220?style=flat-square&logo=json&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Node--RED-0B1220?style=flat-square&logo=nodered&logoColor=FF5555"/>
 
 </div>
 
 ---
 
-## `04` — Projetos e experiências
-
-### McQueen — Competição de Robôs Autônomos
-
-Desenvolvimento de robô autônomo no contexto da 12ª CoRA/UFMG, envolvendo programação embarcada, eletrônica, controle de motores e implementação de lógica de navegação por máquina de estados.
-
-<kbd>Robótica</kbd> <kbd>C++</kbd> <kbd>Arduino</kbd> <kbd>Automação</kbd>
-
-### Netuno — Monitoramento Ambiental Aquático
-
-Sistema de monitoramento ambiental aquático baseado em ESP32, com aquisição de dados de temperatura, pH e TDS, transmissão por MQTT e integração com ferramentas de processamento e visualização.
-
-<kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>MQTT</kbd> <kbd>JSON</kbd> <kbd>Node-RED</kbd>
-
-### Iniciação Científica — PIC Jr/OBMEP
-
-Participação em atividades de formação e pesquisa científica no Programa de Iniciação Científica Júnior, promovido pelo IMPA.
-
-<kbd>Pesquisa Científica</kbd> <kbd>OBMEP</kbd> <kbd>IMPA</kbd>
-
-### LEX-Lux-Br — UFMG
-
-Participação voluntária em projeto vinculado à Faculdade de Letras da Universidade Federal de Minas Gerais.
-
-<kbd>Pesquisa</kbd> <kbd>UFMG</kbd> <kbd>Colaboração</kbd>
-
----
-
-## `05` — Estatísticas do GitHub
+## 04. Projetos em destaque
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=pt-br&include_all_commits=true"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<a href="https://github.com/souza-fd/Cora">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Cora&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+</a>
+<a href="https://github.com/souza-fd/Netuno">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Netuno&hide_border=true&bg_color=0B1220&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+</a>
 
 </div>
 
+### McQueen — Robótica Autônoma
+
+Desenvolvimento de robô autônomo para a 12ª CoRA/UFMG, envolvendo programação embarcada, eletrônica, controle de motores e lógica de navegação baseada em máquina de estados.
+
+`C++` `Arduino` `Robótica` `Controle`
+
+### Netuno — Monitoramento Ambiental
+
+Sistema de monitoramento ambiental aquático com ESP32, sensores de temperatura, pH e TDS, comunicação MQTT e integração com Node-RED.
+
+`ESP32` `C++` `MQTT` `JSON` `JavaScript`
+
+---
+
+## 05. Atividade no GitHub
+
 <div align="center">
 
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souza-fd&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souza-fd&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souza-fd&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=souza-fd&bg_color=0B1220&color=58A6FF&line=2F81F7&point=E6EDF3&area=true&hide_border=true&custom_title=Histórico%20de%20Contribuições"/>
 
 </div>
 
 ---
 
-## `06` — Formação e reconhecimento
-
-- **COLTEC/UFMG:** Técnico em Eletrônica.
-- **IFSULDEMINAS:** Desenvolvimento de Sistemas.
-- **PIC Jr/OBMEP:** Iniciação Científica Júnior.
-- **LEX-Lux-Br/UFMG:** Participação voluntária.
-- **CoRA/UFMG:** 1º lugar nas categorias Geral e Arrancada.
-- **FGV CDMC:** Seleção para o 8º e o 13º Encontro de Seleção de Talentos.
-
----
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:102A43,100:0D1117&height=65&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0B1220&section=footer&text=KNOWLEDGE%20%7C%20RESEARCH%20%7C%20DEVELOPMENT&fontColor=58A6FF&fontSize=15"/>
 
-  **`Conhecimento · Pesquisa · Desenvolvimento`**
-
-  <sub>Fernando Dias de Souza · GitHub</sub>
+<sub>Fernando Dias de Souza · GitHub Profile</sub>
 
 </div>
