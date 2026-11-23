@@ -1,23 +1,24 @@
 
-<!-- =====================================================
-     FERNANDO DIAS DE SOUZA | GITHUB PROFILE README
+<!-- ============================================================
+     FERNANDO DIAS DE SOUZA
+     GitHub Profile README
      Repository: souza-fd
-====================================================== -->
+============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:10172A,45:173B68,100:2855A6&text=Fernando%20Dias%20de%20Souza&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=ELECTRONICS%20%7C%20SYSTEMS%20DEVELOPMENT%20%7C%20RESEARCH%20%7C%20ROBOTICS&descSize=13&descAlignY=63&descColor=C7E7FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:10172A,35:173B68,70:2855A6,100:533B8F&text=Fernando%20Dias%20de%20Souza&fontColor=FFFFFF&fontSize=40&fontAlignY=39&desc=ELETRÔNICA%20%7C%20DESENVOLVIMENTO%20DE%20SISTEMAS%20%7C%20PESQUISA%20%7C%20TECNOLOGIA&descSize=13&descAlignY=62&descColor=D6E8FF" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/souza-f-d/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/souza-fd?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Meus%20Repositórios-24292F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Repositórios-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/souza.f.d/">
-  <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
@@ -30,102 +31,285 @@ Belo Horizonte, Minas Gerais, Brasil
 
 ---
 
-## Apresentação
+# 01. Apresentação
 
-Estudante da área de tecnologia, com formação técnica em **Eletrônica pelo Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG)** e formação técnica em **Desenvolvimento de Sistemas pelo Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)**, atualmente em andamento.
+Sou estudante da área de tecnologia, com formação técnica em **Eletrônica pelo Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG)** e formação técnica em **Desenvolvimento de Sistemas pelo Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)**, atualmente em andamento.
 
-Minha trajetória acadêmica reúne experiências em pesquisa científica, desenvolvimento tecnológico, projetos de engenharia e participação em iniciativas acadêmicas e competições. Tenho interesse na integração entre conhecimentos de hardware e software, especialmente em aplicações envolvendo eletrônica, programação, sistemas embarcados, automação e robótica.
+Minha trajetória acadêmica é marcada pelo interesse na interseção entre ciência, tecnologia, engenharia e computação. Ao longo da minha formação, participei de iniciativas de pesquisa científica, projetos de desenvolvimento tecnológico, atividades acadêmicas e competições de robótica, buscando ampliar minha compreensão sobre sistemas físicos e computacionais e suas aplicações.
 
-Ao longo dessa trajetória, participei de projetos que envolvem desenvolvimento de firmware, instrumentação eletrônica, aquisição e transmissão de dados, integração de sensores e implementação de sistemas de controle. Também participei de atividades de iniciação científica e iniciativas acadêmicas interdisciplinares.
+Tenho particular interesse na integração entre hardware e software, especialmente em projetos que envolvam eletrônica, programação, sistemas embarcados, instrumentação, aquisição de dados, automação e comunicação entre dispositivos. Essas áreas representam diferentes dimensões de um mesmo campo de investigação: a concepção, implementação, integração e aprimoramento de sistemas tecnológicos.
 
-Tenho interesse em aprofundar conhecimentos científicos e tecnológicos, desenvolver soluções aplicadas e ampliar minha formação em áreas relacionadas à computação, engenharia e inovação.
+Minha experiência prática inclui o desenvolvimento de soluções com microcontroladores, integração de sensores e atuadores, programação de firmware, controle de sistemas e comunicação entre dispositivos. Também possuo interesse em áreas como Internet das Coisas (IoT), redes de computadores, cibersegurança e desenvolvimento de software.
 
-## Formação Acadêmica e Técnica
+Paralelamente à formação técnica, busco aprofundar conhecimentos científicos e matemáticos por meio de iniciativas acadêmicas e de pesquisa, valorizando o pensamento analítico, a investigação, a interdisciplinaridade e a aplicação do conhecimento na resolução de problemas.
 
-### Colégio Técnico da Universidade Federal de Minas Gerais — COLTEC/UFMG
+Este perfil reúne projetos, experiências acadêmicas, materiais técnicos e registros relacionados à minha trajetória em eletrônica, desenvolvimento de sistemas, pesquisa científica e robótica.
+
+---
+
+# 02. Formação Acadêmica e Técnica
+
+## Colégio Técnico da Universidade Federal de Minas Gerais — COLTEC/UFMG
 
 **Técnico em Eletrônica**
 
-Formação técnica concluída, com direcionamento para fundamentos de eletrônica, circuitos, sistemas digitais, instrumentação e desenvolvimento de soluções tecnológicas.
+Formação técnica concluída no Colégio Técnico da Universidade Federal de Minas Gerais, instituição vinculada à UFMG, com direcionamento para os fundamentos teóricos e práticos da eletrônica e o desenvolvimento de soluções tecnológicas.
 
-### Instituto Federal do Sul de Minas Gerais — IFSULDEMINAS
+A formação proporciona uma base para compreender o funcionamento de circuitos e dispositivos eletrônicos, sistemas digitais, instrumentação, componentes, sensores e diferentes interfaces entre sistemas físicos e computacionais.
+
+Entre os principais campos de conhecimento relacionados à formação estão:
+
+- Fundamentos de eletricidade e eletrônica;
+- Análise e funcionamento de circuitos eletrônicos;
+- Sistemas analógicos e digitais;
+- Componentes e dispositivos semicondutores;
+- Instrumentação e medição de grandezas físicas;
+- Sensores, atuadores e condicionamento de sinais;
+- Microcontroladores e sistemas programáveis;
+- Integração entre hardware e software;
+- Desenvolvimento, montagem e análise de sistemas eletrônicos.
+
+A formação em Eletrônica constitui uma das bases da minha atuação em projetos de robótica, automação, instrumentação e sistemas embarcados.
+
+## Instituto Federal do Sul de Minas Gerais — IFSULDEMINAS
 
 **Técnico em Desenvolvimento de Sistemas**
 
-Formação técnica em andamento, voltada à programação, lógica computacional, desenvolvimento de software e construção de sistemas.
+Formação técnica em andamento no Instituto Federal do Sul de Minas Gerais, voltada ao desenvolvimento de soluções computacionais e à compreensão dos fundamentos envolvidos na construção de sistemas de software.
 
-## Pesquisa e Atividades Acadêmicas
+O curso amplia minha formação tecnológica ao incorporar conhecimentos relacionados à programação, lógica computacional, desenvolvimento de aplicações, organização de dados e integração de sistemas.
 
-### Programa de Iniciação Científica Júnior — PIC Jr. / OBMEP
+Entre os principais campos de conhecimento relacionados à formação estão:
+
+- Lógica de programação e algoritmos;
+- Linguagens de programação;
+- Estruturas de dados e organização da informação;
+- Desenvolvimento de aplicações;
+- Modelagem e estruturação de sistemas;
+- Banco de dados;
+- Engenharia de software;
+- Arquitetura e integração de aplicações;
+- Desenvolvimento e manutenção de soluções computacionais.
+
+A formação complementa minha base em Eletrônica, permitindo explorar de maneira mais abrangente a integração entre dispositivos físicos, sistemas computacionais e aplicações de software.
+
+---
+
+# 03. Pesquisa Científica e Atividades Acadêmicas
+
+## Programa de Iniciação Científica Júnior — PIC Jr. / OBMEP
+
+**Instituto de Matemática Pura e Aplicada (IMPA)**
 
 Participação no Programa de Iniciação Científica Júnior (PIC Jr.), vinculado à Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP), iniciativa promovida pelo Instituto de Matemática Pura e Aplicada (IMPA).
 
-Atuação como bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) em diferentes ciclos do programa, com participação em atividades de formação científica e aprofundamento de conhecimentos matemáticos.
+Ao longo de diferentes ciclos do programa, participei de atividades de formação científica e aprofundamento matemático, com atuação como bolsista do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
 
-### Projeto LEX-Lux-Br — UFMG
+A experiência está relacionada ao desenvolvimento do raciocínio lógico, da capacidade de abstração, da investigação matemática e da resolução estruturada de problemas.
 
-Participação voluntária em projeto acadêmico vinculado à Faculdade de Letras da Universidade Federal de Minas Gerais (UFMG), com atuação em iniciativa de caráter interdisciplinar.
+A participação em um programa de iniciação científica representa uma dimensão importante da minha trajetória acadêmica, contribuindo para o desenvolvimento de uma perspectiva investigativa e para o aprofundamento de conhecimentos fundamentais à formação científica e tecnológica.
 
-### FGV CDMC — Encontro de Seleção de Talentos
+**Instituições envolvidas:**
+- Instituto de Matemática Pura e Aplicada (IMPA);
+- Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP);
+- Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
 
-Selecionado para o **8º e o 13º Encontro de Seleção de Talentos da FGV CDMC**, iniciativas voltadas à identificação e ao desenvolvimento de estudantes com potencial acadêmico.
+## Projeto LEX-Lux-Br — Faculdade de Letras da UFMG
 
-### Olimpíadas Científicas
+**Universidade Federal de Minas Gerais**
 
-Participação em olimpíadas e competições acadêmicas, com reconhecimento por resultados obtidos em diferentes iniciativas de conhecimento.
+Participação voluntária em projeto acadêmico vinculado à Faculdade de Letras da Universidade Federal de Minas Gerais (UFMG).
 
-## Projetos e Desenvolvimento Tecnológico
+A experiência integra minha trajetória em atividades de caráter interdisciplinar, proporcionando contato com iniciativas acadêmicas desenvolvidas fora do campo estritamente tecnológico.
 
-### McQueen — 12ª Competição de Robôs Autônomos (CoRA/UFMG)
+A participação em projetos dessa natureza contribui para ampliar a compreensão sobre a produção de conhecimento, a colaboração entre diferentes áreas e a importância de perspectivas multidisciplinares na formação acadêmica.
 
-Projeto desenvolvido no âmbito do Clube de Robótica do Colégio Técnico da Universidade Federal de Minas Gerais (COLTEC/UFMG), para participação na 12ª edição da Competição de Robôs Autônomos (CoRA).
+## Encontro de Seleção de Talentos — FGV CDMC
 
-O desenvolvimento envolveu programação embarcada em C++, integração de componentes eletrônicos, controle de motores, interpretação de sensores e implementação de lógica de navegação baseada em máquina de estados.
+**Fundação Getulio Vargas**
 
-A arquitetura de controle foi organizada para reconhecer diferentes condições do percurso e executar estratégias específicas de movimentação, incluindo curvas, cruzamentos e outros desafios da competição.
+Selecionado para o **8º e o 13º Encontro de Seleção de Talentos da FGV CDMC**.
 
-**Resultados obtidos:**
-- 1º lugar na classificação Geral.
-- 1º lugar na categoria Arrancada.
+A participação nos encontros integra minha trajetória de envolvimento em iniciativas acadêmicas voltadas à identificação e ao desenvolvimento de estudantes com potencial, interesse e aptidão para atividades de aprofundamento intelectual.
 
-**Áreas técnicas envolvidas:** robótica móvel, eletrônica, programação embarcada, controle de motores, sensores e máquinas de estados.
+## Olimpíadas Científicas e Competições Acadêmicas
 
-### Netuno — Sistema de Monitoramento Ambiental Aquático
+Participação em olimpíadas científicas e iniciativas acadêmicas, com reconhecimento por resultados obtidos em competições de conhecimento.
 
-Projeto de desenvolvimento tecnológico voltado ao monitoramento de parâmetros ambientais em ambientes aquáticos, utilizando uma arquitetura baseada em microcontrolador ESP32 e módulos de aquisição de dados.
+Essas experiências estão relacionadas ao desenvolvimento de competências como raciocínio lógico, análise de problemas, interpretação, aplicação de conhecimentos e resolução de desafios em diferentes contextos.
 
-O sistema integra sensores para obtenção de parâmetros como temperatura, pH e sólidos totais dissolvidos (TDS), realizando a aquisição, o tratamento inicial e a transmissão das informações.
+---
 
-A comunicação e a integração dos componentes envolvem conectividade Wi-Fi, protocolo MQTT, estruturação de mensagens em JSON e utilização de Node-RED e JavaScript para processamento e integração dos dados.
+# 04. Projetos de Desenvolvimento Tecnológico
 
-**Tecnologias e recursos envolvidos:**
-- ESP32 e programação em C++;
+## McQueen — 12ª Competição de Robôs Autônomos (CoRA/UFMG)
+
+**Equipe McQueen | Clube de Robótica do COLTEC/UFMG**
+
+O McQueen é um projeto de robótica desenvolvido no âmbito do Clube de Robótica do Colégio Técnico da Universidade Federal de Minas Gerais, para participação na 12ª edição da Competição de Robôs Autônomos (CoRA).
+
+O projeto envolveu o desenvolvimento e a integração de sistemas eletrônicos e computacionais responsáveis pela percepção do ambiente, interpretação de sensores, controle de movimentação e execução de estratégias de navegação autônoma.
+
+A implementação contemplou programação embarcada em C++, integração de componentes eletrônicos, controle de motores e desenvolvimento de uma lógica de navegação estruturada por meio de uma máquina de estados.
+
+A utilização de uma arquitetura baseada em estados permitiu organizar o comportamento do robô em diferentes condições de operação, contemplando procedimentos de inicialização, acompanhamento de trajetória, interpretação de cruzamentos, realização de curvas e execução de sequências específicas de movimentação.
+
+O desenvolvimento também envolveu a análise e o aprimoramento de estratégias de controle, considerando aspectos como resposta dos motores, interpretação das informações provenientes dos sensores e comportamento do robô durante a execução dos percursos.
+
+### Desenvolvimento e Implementação
+
+- Programação de sistemas embarcados em C++;
+- Integração entre componentes eletrônicos e computacionais;
+- Controle e acionamento de motores;
+- Interpretação de informações provenientes de sensores;
+- Implementação de lógica de navegação autônoma;
+- Organização do comportamento por máquina de estados;
+- Desenvolvimento de rotinas para identificação e tratamento de diferentes condições do percurso;
+- Ajustes de movimentação e estratégias de controle.
+
+### Organização dos Firmwares
+
+Foram desenvolvidas versões distintas do firmware, com estratégias de movimentação e controle direcionadas a diferentes características de desempenho.
+
+- **Versão de 200 RPM:** desenvolvimento com maior atenção ao comportamento em curvas e à execução de trajetórias.
+- **Versão de 500 RPM:** direcionamento para aceleração e desempenho em trechos predominantemente retilíneos, utilizada na competição.
+
+### Resultados na Competição
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CoRA-1º%20Lugar%20Geral-DAA520?style=for-the-badge&logo=medal&logoColor=white" />
+<img src="https://img.shields.io/badge/Arrancada-1º%20Lugar-DAA520?style=for-the-badge&logo=trophy&logoColor=white" />
+
+<br><br>
+
+**1º lugar na classificação Geral e 1º lugar na categoria Arrancada.**
+
+</div>
+
+O resultado representa o reconhecimento do trabalho de desenvolvimento, integração e aprimoramento do sistema robótico realizado pela equipe.
+
+**Áreas relacionadas:** robótica móvel, eletrônica, sistemas embarcados, programação em C++, controle de motores, sensores, automação e máquinas de estados.
+
+**Repositório:** [Cora — GitHub](https://github.com/souza-fd/Cora)
+
+---
+
+## Netuno — Sistema de Monitoramento Ambiental Aquático
+
+**Sistema embarcado de aquisição, transmissão e integração de dados ambientais**
+
+O Netuno é um projeto de desenvolvimento tecnológico voltado ao monitoramento de parâmetros ambientais em ambientes aquáticos, utilizando uma arquitetura baseada em microcontrolador ESP32 e módulos de aquisição de dados.
+
+A proposta envolve a integração de sensores e componentes eletrônicos para obtenção de informações relacionadas às condições do ambiente monitorado, permitindo a aquisição, o tratamento inicial e a transmissão dos dados para outros componentes do sistema.
+
+O firmware foi desenvolvido em C++, utilizando recursos do ESP32 e bibliotecas específicas para comunicação, aquisição de sinais e integração dos sensores.
+
+O sistema contempla a leitura de parâmetros como temperatura, pH e sólidos totais dissolvidos (TDS), utilizando diferentes interfaces e componentes de aquisição.
+
+### Arquitetura de Hardware e Aquisição de Dados
+
+A arquitetura utiliza o ESP32 como unidade central de processamento e comunicação, integrado a módulos responsáveis pela aquisição das grandezas monitoradas.
+
+Entre os componentes identificados na implementação estão:
+
+- **ESP32:** microcontrolador responsável pela execução do firmware e pela comunicação sem fio;
+- **MAX6675:** módulo de conversão para leitura de termopar tipo K, utilizado na medição de temperatura;
+- **ADS1115:** conversor analógico-digital utilizado na aquisição dos sinais associados aos módulos de pH e TDS;
+- **Sensor de pH:** conjunto de sonda e módulo de condicionamento para obtenção de informações sobre a acidez ou alcalinidade da amostra;
+- **Sensor de TDS:** conjunto destinado à estimativa da concentração de sólidos totais dissolvidos.
+
+### Firmware e Processamento
+
+O firmware realiza a aquisição das leituras, conversão dos valores obtidos, aplicação de parâmetros de calibração e organização dos dados para transmissão.
+
+O processamento contempla:
+
+- Comunicação com sensores e módulos de aquisição;
+- Leitura de grandezas físicas;
+- Conversão de sinais analógicos em valores interpretáveis;
+- Aplicação de parâmetros de calibração;
+- Tratamento inicial das informações;
+- Organização dos resultados em estruturas JSON;
+- Publicação dos dados por meio de comunicação MQTT.
+
+### Comunicação e Integração de Sistemas
+
+Uma característica importante do projeto é a integração entre o firmware embarcado e ferramentas de processamento e comunicação.
+
+A arquitetura utiliza diferentes tecnologias:
+
+- **Wi-Fi:** conectividade entre o ESP32 e a infraestrutura de rede;
+- **MQTT:** protocolo de comunicação baseado em publicação e assinatura de mensagens;
+- **JSON:** estruturação e serialização dos dados transmitidos;
+- **Node-RED:** integração e processamento de mensagens em fluxos;
+- **JavaScript:** implementação de lógica de processamento e manipulação de informações.
+
+A comunicação MQTT permite organizar a troca de mensagens entre os componentes do sistema por meio de tópicos específicos, enquanto o JSON fornece uma estrutura padronizada para representação dos parâmetros monitorados.
+
+O Node-RED integra esse fluxo de informações, permitindo a construção de rotinas de processamento e comunicação entre diferentes componentes da arquitetura.
+
+### Estrutura de Comunicação
+
+**Publicação dos dados:**
+
+`sensores/netuno/dados`
+
+**Assinatura de mensagens:**
+
+`sensores/netuno/atuadores`
+
+**Parâmetros monitorados:**
+
+- Temperatura;
+- pH;
+- TDS.
+
+### Tecnologias e Competências Envolvidas
+
+- Sistemas embarcados e microcontroladores;
+- Programação em C++;
+- ESP32 e comunicação Wi-Fi;
 - Sensores e instrumentação eletrônica;
-- Conversão e tratamento de sinais;
-- Comunicação Wi-Fi e protocolo MQTT;
-- Estruturação e interpretação de dados em JSON;
-- Integração com Node-RED;
-- Desenvolvimento de lógica de processamento em JavaScript.
+- Conversão analógico-digital;
+- Aquisição e tratamento de sinais;
+- Calibração de sensores;
+- Protocolo MQTT;
+- Estruturação de dados em JSON;
+- Node-RED e JavaScript;
+- Integração entre hardware e software.
 
-## Áreas de Interesse
+O Netuno reúne conhecimentos de eletrônica, programação embarcada, instrumentação, comunicação de dados e integração de sistemas, constituindo uma aplicação prática de desenvolvimento tecnológico interdisciplinar.
 
-Minha formação e meus interesses acadêmicos abrangem diferentes campos da ciência e da tecnologia, com ênfase na integração entre sistemas físicos, computacionais e digitais.
+**Repositório:** [Netuno — GitHub](https://github.com/souza-fd/Netuno)
 
-| Área | Temas de interesse |
+---
+
+# 05. Áreas de Interesse
+
+Meus interesses acadêmicos e tecnológicos abrangem diferentes áreas relacionadas à ciência, engenharia e computação, especialmente aquelas que envolvem desenvolvimento, integração, comunicação e análise de sistemas.
+
+| Área | Principais temas de interesse |
 |:---|:---|
-| **Pesquisa Científica e Desenvolvimento Tecnológico** | Investigação científica, iniciação científica, desenvolvimento experimental e inovação. |
-| **Eletrônica e Instrumentação** | Circuitos eletrônicos, sistemas analógicos e digitais, sensores, instrumentação e aquisição de sinais. |
-| **Desenvolvimento de Sistemas** | Algoritmos, programação, estruturas de dados, arquitetura de software e integração de aplicações. |
-| **Automação e Controle** | Sistemas de controle, automação de processos, monitoramento e integração de dispositivos. |
-| **Robótica e Sistemas Autônomos** | Robótica móvel, navegação autônoma, percepção do ambiente e controle de movimento. |
-| **Sistemas Embarcados** | Microcontroladores, firmware, programação de baixo nível e interfaces de hardware. |
-| **Internet das Coisas (IoT)** | Dispositivos conectados, telemetria, monitoramento remoto e comunicação entre sistemas. |
-| **Redes de Computadores** | Arquitetura de redes, protocolos de comunicação, conectividade e transmissão de dados. |
-| **Cibersegurança** | Segurança de aplicações, proteção de dispositivos conectados, segurança de redes e criptografia. |
+| **Pesquisa Científica e Desenvolvimento Tecnológico** | Investigação científica, iniciação científica, desenvolvimento experimental, inovação e aplicação de conhecimentos científicos. |
+| **Eletrônica e Instrumentação** | Circuitos eletrônicos, sistemas analógicos e digitais, sensores, instrumentação, aquisição e condicionamento de sinais. |
+| **Desenvolvimento de Sistemas** | Algoritmos, lógica de programação, estruturas de dados, arquitetura de software, desenvolvimento de aplicações e integração de sistemas. |
+| **Automação e Controle** | Sistemas de controle, automação de processos, instrumentação, monitoramento e integração de dispositivos. |
+| **Robótica e Sistemas Autônomos** | Robótica móvel, navegação autônoma, percepção do ambiente, controle de movimento e sistemas inteligentes. |
+| **Sistemas Embarcados** | Microcontroladores, firmware, programação de baixo nível, interfaces de hardware e aquisição de dados. |
+| **Internet das Coisas (IoT)** | Dispositivos conectados, comunicação entre sistemas, monitoramento remoto, telemetria e integração de sensores e atuadores. |
+| **Redes de Computadores** | Arquitetura de redes, protocolos de comunicação, conectividade, infraestrutura e transmissão de dados. |
+| **Cibersegurança** | Segurança de aplicações, proteção de dispositivos conectados, segurança de redes, criptografia e análise de vulnerabilidades. |
 
-## Tecnologias e Ferramentas
+---
 
-### Linguagens de Programação
+# 06. Tecnologias, Linguagens e Ferramentas
+
+Minha formação e minhas experiências em projetos envolvem diferentes tecnologias relacionadas ao desenvolvimento de software, programação embarcada, eletrônica, comunicação e integração de sistemas.
+
+A organização abaixo apresenta tecnologias utilizadas em projetos e ferramentas relacionadas aos meus estudos e interesses de desenvolvimento.
+
+## Linguagens de Programação
 
 <div align="center">
 
@@ -133,15 +317,29 @@ Minha formação e meus interesses acadêmicos abrangem diferentes campos da ci�
 
 </div>
 
-### Eletrônica e Desenvolvimento
+| Tecnologia | Aplicação |
+|:---|:---|
+| **C** | Programação e fundamentos de desenvolvimento de software. |
+| **C++** | Programação embarcada, firmware e desenvolvimento de sistemas robóticos. |
+| **Python** | Estudos de programação, automação e desenvolvimento de soluções computacionais. |
+| **JavaScript** | Lógica de processamento e integração de sistemas, incluindo aplicações com Node-RED. |
+
+## Eletrônica e Sistemas Embarcados
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
 </div>
 
-### Comunicação e Integração de Sistemas
+| Tecnologia | Aplicação |
+|:---|:---|
+| **ESP32** | Desenvolvimento de sistemas embarcados e dispositivos conectados. |
+| **Arduino** | Desenvolvimento e prototipagem de sistemas eletrônicos programáveis. |
+| **ADS1115** | Conversão analógico-digital e aquisição de sinais. |
+| **MAX6675** | Interface para leitura de termopares tipo K. |
+
+## Comunicação e Integração de Sistemas
 
 <div align="center">
 
@@ -151,32 +349,63 @@ Minha formação e meus interesses acadêmicos abrangem diferentes campos da ci�
 
 </div>
 
-### Ferramentas de Desenvolvimento e Versionamento
+| Tecnologia | Aplicação |
+|:---|:---|
+| **MQTT** | Comunicação entre dispositivos e troca de mensagens por publicação e assinatura. |
+| **JSON** | Representação, organização e transmissão estruturada de dados. |
+| **Node-RED** | Integração de dispositivos, processamento de mensagens e construção de fluxos. |
+| **Wi-Fi** | Comunicação sem fio e conectividade de sistemas embarcados. |
+
+## Desenvolvimento e Versionamento
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 </div>
 
-## Repositórios em Destaque
+| Ferramenta | Aplicação |
+|:---|:---|
+| **Visual Studio Code** | Ambiente de desenvolvimento e edição de código. |
+| **Git** | Controle de versão e acompanhamento de alterações em projetos. |
+| **GitHub** | Hospedagem de repositórios, documentação e organização de projetos. |
+
+---
+
+# 07. Repositórios e Produção Técnica
+
+Este perfil reúne repositórios relacionados a projetos acadêmicos, desenvolvimento tecnológico e documentação técnica.
 
 <div align="center">
 
 <a href="https://github.com/souza-fd/Cora">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Cora&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9&icon_color=9B8CFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Cora&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9&icon_color=9B8CFF" />
 </a>
 <a href="https://github.com/souza-fd/Netuno">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Netuno&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9&icon_color=9B8CFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=souza-fd&repo=Netuno&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9&icon_color=9B8CFF" />
 </a>
 
 </div>
 
-## Estatísticas e Atividade
+### Organização e documentação
+
+Os repositórios são utilizados para organizar e preservar materiais relacionados aos projetos, incluindo:
+
+- Códigos-fonte e implementações;
+- Documentação técnica;
+- Registros de desenvolvimento;
+- Estruturas de controle e funcionamento;
+- Informações sobre componentes e tecnologias;
+- Materiais de referência e apoio.
+
+---
+
+# 08. Estatísticas e Atividade no GitHub
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souza-fd&show_icons=true&include_all_commits=true&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9&icon_color=9B8CFF" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-fd&layout=compact&hide_border=true&bg_color=10172A&title_color=58A6FF&text_color=C9D1D9" />
 
 <br><br>
@@ -185,18 +414,22 @@ Minha formação e meus interesses acadêmicos abrangem diferentes campos da ci�
 
 </div>
 
-## Contato
+---
+
+# 09. Contato e Redes Profissionais
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/souza-f-d/">
-  <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Dias%20de%20Souza-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Dias%20de%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/souza-fd?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Repositórios-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.instagram.com/souza.f.d/">
-  <img src="https://img.shields.io/badge/Instagram-souza.f.d-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-souza.f.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
@@ -205,4 +438,8 @@ Minha formação e meus interesses acadêmicos abrangem diferentes campos da ci�
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:2855A6,50:173B68,100:10172A&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:533B8F,45:2855A6,100:10172A&section=footer" />
+
+<!-- ============================================================
+     END OF PROFILE README
+============================================================ -->
